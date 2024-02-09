@@ -1,4 +1,4 @@
-# Pranik Medical Services (PMS)
+#AI based Health Care Web App)
 
 ![Project Logo](./static/assets/img/logo.png)
 
@@ -8,8 +8,7 @@
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 Patient Management System (PMS) is a comprehensive web-based application designed to streamline healthcare facilities and enhance patient management. This project aims to provide a centralized platform that allows doctors, patients, and clinic administrators to efficiently manage medical records, appointments, and communication.
@@ -36,23 +35,21 @@ The primary objective of the Patient Management System is to improve the patient
 ![Screenshot 3](path_to_screenshot_3.png)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yadavnikhilrao/Patient-Management-System-Or-Pranik-Medical-Services-PMS.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
 1. Run the application: `python app.py`
 2. Access the application in your web browser at: `http://localhost:5000`
-3. Live Demo: [https://pranikmedicalservices.pythonanywhere.com/](https://pranikmedicalservices.pythonanywhere.com/)
+
 
 ## Contributing
 We welcome contributions from the community to enhance the Patient Management System. If you'd like to contribute, please submit your pull requests.
 
-## License
-This project is currently not licensed. All rights reserved.
+Author:
+Takudzwa Choto
+Year 2024
 
-## Feedback and Suggestions
-We value your feedback and suggestions to improve the Patient Management System. Please feel free to share your thoughts and ideas through our [Contact Us](https://pranikmedicalservices.pythonanywhere.com/contact) form. We appreciate your input in making this platform even better and more user-friendly.
 
-Check out the Patient Management System [here](https://pranikmedicalservices.pythonanywhere.com/)!
 
-[![Watch the Demo](https://img.youtube.com/vi/qyQmzDAR5-E/0.jpg)](https://www.youtube.com/watch?v=qyQmzDAR5-E)
+
+
