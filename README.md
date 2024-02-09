@@ -1,7 +1,5 @@
 #AI based Health Care Web App)
 
-![Project Logo](./static/assets/img/logo.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -29,10 +27,12 @@ The primary objective of the Patient Management System is to improve the patient
 ## Screenshots
 
 ### Home Page
-![Home Page](./static/assets/img/home.jpeg)
+![image](https://github.com/TakudzwaChoto/AI-based-Healthcare-web-app/assets/56199912/a26e77d1-a5f4-4ec6-9841-557dac640137)
 
-![Screenshot 2](path_to_screenshot_2.png)
-![Screenshot 3](path_to_screenshot_3.png)
+![image](https://github.com/TakudzwaChoto/AI-based-Healthcare-web-app/assets/56199912/5950b92d-2a2d-44ca-b394-8a535111572c)
+
+![image](https://github.com/TakudzwaChoto/AI-based-Healthcare-web-app/assets/56199912/565f7854-26e0-4f7c-858c-1eb457d90b2a)
+
 
 ## Installation
 2. Install the required dependencies: `pip install -r requirements.txt`
