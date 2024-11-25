@@ -24,15 +24,6 @@ The primary objective of the Patient Management System is to improve the patient
 - **Data Analytics:** The system provides insightful analytics and reports for clinic administrators to monitor and improve service efficiency. They can analyze appointment trends, patient feedback, and performance metrics to make data-driven decisions and enhance overall clinic operations.
 - **Responsive Design:** The platform is designed with a responsive layout, ensuring a seamless and consistent user experience across different devices. Whether accessed from a desktop, laptop, tablet, or mobile phone, the system adapts to the screen size and provides optimal usability.
 
-## Screenshots
-
-### Home Page
-![image](https://github.com/TakudzwaChoto/AI-based-Healthcare-web-app/assets/56199912/a26e77d1-a5f4-4ec6-9841-557dac640137)
-
-![image](https://github.com/TakudzwaChoto/AI-based-Healthcare-web-app/assets/56199912/5950b92d-2a2d-44ca-b394-8a535111572c)
-
-![image](https://github.com/TakudzwaChoto/AI-based-Healthcare-web-app/assets/56199912/565f7854-26e0-4f7c-858c-1eb457d90b2a)
-
 
 ## Installation
 2. Install the required dependencies: `pip install -r requirements.txt`
